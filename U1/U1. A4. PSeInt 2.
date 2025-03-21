@@ -48,3 +48,5 @@ Algoritmo EjemploOperadores
     Escribir "Concatenación de cadenas: ", texto1, " + ", texto2, " = ", texto1 , " " , texto2
 
 FinAlgoritmo
+
+Ahora le añado cosas más
